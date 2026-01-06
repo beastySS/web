@@ -1,0 +1,3 @@
+[submodule "themes/demius"]
+	path = themes/demius
+	url = git@github.com:demius782/demius.git

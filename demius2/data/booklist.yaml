@@ -1,0 +1,230 @@
+groups:
+  - name: "精选"
+    books:
+      - name: "额尔古纳河右岸"
+        author: "迟子建"
+        cover: "/img/booklist/额尔古纳河右岸.jpg"
+        description: "这是第一部描述我国东北少数民族鄂温克人生存现状及百年沧桑的长篇小说。似一壁饱得天地之灵气，令人惊叹却难得其解的神奇岩画；又似一卷时而安恬、时而激越，向世人诉说人生挚爱与心灵悲苦的民族史诗。"
+        rating: 9.0
+        tags: ["民族", "长篇小说"]
+        url: "https://share.feijipan.com/s/vGV2i7gs"
+      
+      - name: "悉达多"
+        author: "赫尔曼,黑塞"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["都市", "异能"]
+        url: "https://share.feijipan.com/s/W3Vhjfug"
+      
+      - name: "JAVA核心技术卷 Ⅰ 基础知识"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "这是一本精选小说..."
+        rating: 9.5
+        tags: ["玄幻", "仙侠"]
+        url: "https://share.feijipan.com/s/bSVhjLNa"
+      
+      - name: "JavaScript高级程序设计"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["都市", "异能"]
+        url: "https://share.feijipan.com/s/MXVhkN8j"
+      
+      - name: "人生海海"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "这是一本精选小说..."
+        rating: 9.5
+        tags: ["玄幻", "仙侠"]
+        url: "https://share.feijipan.com/s/ZaVhk9Pw"
+      
+      - name: "偷书贼"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["都市", "异能"]
+        url: "https://share.feijipan.com/s/KXVhkf28"
+      
+      - name: "必然"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "这是一本精选小说..."
+        rating: 9.5
+        tags: ["玄幻", "仙侠"]
+        url: "https://share.feijipan.com/s/46VhklQI"
+      
+      - name: "挪威的森林"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["都市", "异能"]
+        url: "https://share.feijipan.com/s/jhVhkrQl"
+
+      - name: "沧浪之水"
+        author: ""
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["都市", "异能"]
+        url: "https://share.feijipan.com/s/HLVhkLSu"
+
+  - name: "盗墓笔记"
+    books:
+      - name: "盗墓笔记1 七星鲁王宫、怒海潜沙"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "值得推荐的小说..."
+        rating: 8.8
+        tags: ["科幻", "未来"]
+        url: "https://share.feijipan.com/s/PPVhlVJn"
+        
+      - name: "盗墓笔记2 秦岭神树"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/XoVhlacC"
+
+      - name: "盗墓笔记3 云顶天宫"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/HdVhl7Pi"
+        
+      - name: "盗墓笔记4 蛇沼鬼城"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/FuVhlm79"
+        
+      - name: "盗墓笔记5 谜海归巢"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/HNVhlj4q"
+        
+      - name: "盗墓笔记6 阴山古楼"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/MZVhlJAk"
+        
+      - name: "盗墓笔记7 邛笼石影 "
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/QIVhmMNZ"
+        
+      - name: "盗墓笔记8 大结局"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/JvVhmYF5"
+        
+      - name: "盗墓笔记贺岁篇"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/GIVhm1DW"
+        
+      - name: "盗墓笔记-终极解谜"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/KwVhm3UZ"
+        
+      - name: "盜墓筆記1-8全集"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["历史", "穿越"]
+        url: "https://share.feijipan.com/s/gEVhmbWb"
+
+  - name: "热门"
+    books:
+      - name: "热门小说1"
+        author: "作者E"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "当前热门小说..."
+        rating: 8.9
+        tags: ["都市", "现代"]
+        url: "https://example.com/book5"
+      - name: "热门小说2"
+        author: "作者F"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "爆款推荐..."
+        rating: 8.7
+        tags: ["言情", "甜宠"]
+        url: "https://example.com/book6"
+
+  - name: "新书"
+    books:
+      - name: "新书1"
+        author: "作者G"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "最新上架..."
+        rating: 8.0
+        tags: ["悬疑", "推理"]
+        url: "https://example.com/book7"
+      - name: "新书2"
+        author: "作者H"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "新鲜出炉..."
+        rating: 7.8
+        tags: ["奇幻", "魔法"]
+        url: "https://example.com/book8"
+
+  - name: "已读"
+    books:
+      - name: "已读小说1"
+        author: "作者I"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "已读完的小说..."
+        rating: 9.0
+        tags: ["玄幻", "仙侠"]
+        url: "https://example.com/book9"
+        readDate: "2025-01-01"
+
+  - name: "在读"
+    books:
+      - name: "在读小说1"
+        author: "作者J"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "正在阅读中..."
+        rating: 8.5
+        tags: ["都市", "异能"]
+        url: "https://example.com/book10"
+        progress: "50%"
+
+  - name: "想读"
+    books:
+      - name: "想读小说1"
+        author: "作者K"
+        cover: "/img/booklist/海绵宝宝.webp"
+        description: "准备阅读..."
+        tags: ["科幻", "未来"]
+        url: "https://example.com/book11"
+

@@ -1,0 +1,168 @@
+groups:
+  - name: "精选"
+    books:
+      - name: "额尔古纳河右岸"
+        author: "迟子建"
+        cover: "/img/booklist/额尔古纳河右岸.jpg"
+        description: "这是第一部描述我国东北少数民族鄂温克人生存现状及百年沧桑的长篇小说。似一壁饱得天地之灵气，令人惊叹却难得其解的神奇岩画；又似一卷时而安恬、时而激越，向世人诉说人生挚爱与心灵悲苦的民族史诗。"
+        rating: 9.0
+        tags: ["民族", "长篇小说"]
+        url: "https://share.feijipan.com/s/vGV2i7gs"
+      
+      - name: "悉达多"
+        author: "赫尔曼,黑塞"
+        cover: "/img/booklist/悉达多.jpg"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["心灵之书", "哲学"]
+        url: "https://share.feijipan.com/s/W3Vhjfug"      
+      
+      - name: "人生海海"
+        author: "麦家"
+        cover: "/img/booklist/人生海海.jpg"
+        description: "这是一本精选小说..."
+        rating: 9.5
+        tags: ["长篇小说"]
+        url: "https://share.feijipan.com/s/ZaVhk9Pw"
+      
+      - name: "偷书贼"
+        author: "[澳]马库斯·苏萨克"
+        cover: "/img/booklist/偷书贼.jpg"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["长篇小说"]
+        url: "https://share.feijipan.com/s/KXVhkf28"
+      
+      - name: "必然"
+        author: "[美国] 凯文·凯利"
+        cover: "/img/booklist/必然.jpg"
+        description: "这是一本精选小说..."
+        rating: 9.5
+        tags: ["知识", "内容"]
+        url: "https://share.feijipan.com/s/46VhklQI"
+      
+      - name: "挪威的森林"
+        author: "[日] 村上春树"
+        cover: "/img/booklist/挪威的森林.jpg"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["小说", "爱情"]
+        url: "https://share.feijipan.com/s/jhVhkrQl"
+
+      - name: "沧浪之水"
+        author: "阎真"
+        cover: "/img/booklist/沧浪之水.jpg"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["官场", "小说"]
+        url: "https://share.feijipan.com/s/HLVhkLSu"
+
+  - name: "盗墓笔记"
+    books:
+      - name: "盗墓笔记1 七星鲁王宫、怒海潜沙"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "值得推荐的小说..."
+        rating: 8.8
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/PPVhlVJn"
+        
+      - name: "盗墓笔记2 秦岭神树"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/XoVhlacC"
+
+      - name: "盗墓笔记3 云顶天宫"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/HdVhl7Pi"
+        
+      - name: "盗墓笔记4 蛇沼鬼城"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/FuVhlm79"
+        
+      - name: "盗墓笔记5 谜海归巢"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/HNVhlj4q"
+        
+      - name: "盗墓笔记6 阴山古楼"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/MZVhlJAk"
+        
+      - name: "盗墓笔记7 邛笼石影 "
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/QIVhmMNZ"
+        
+      - name: "盗墓笔记8 大结局"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/JvVhmYF5"
+        
+      - name: "盗墓笔记贺岁篇"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/GIVhm1DW"
+        
+      - name: "盗墓笔记-终极解谜"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/KwVhm3UZ"
+        
+      - name: "盜墓筆記1-8全集"
+        author: "南派三叔"
+        cover: "/img/booklist/盗墓笔记.jpg"
+        description: "强烈推荐..."
+        rating: 8.5
+        tags: ["盗墓", "长篇小说"]
+        url: "https://share.feijipan.com/s/gEVhmbWb"
+
+  - name: "编程书籍"
+    books:
+      - name: "JAVA核心技术卷 Ⅰ 基础知识"
+        author: "[美] 凯 S.霍斯特曼（Cay S.Horstmann）"
+        cover: "/img/booklist/JAVA核心技术卷 Ⅰ 基础知识.jpg"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["编程", "学习"]
+        url: "https://share.feijipan.com/s/bSVhjLNa"
+      
+      - name: "JavaScript高级程序设计"
+        author: "[美]马特·弗里斯比（Matt Frisbie）"
+        cover: "/img/booklist/JavaScript高级程序设计.jpg"
+        description: "经典之作..."
+        rating: 9.0
+        tags: ["编程", "学习"]
+        url: "https://share.feijipan.com/s/MXVhkN8j"
+
+  

@@ -1,0 +1,109 @@
+# 相册配置文件
+# 支持分组、命名、精选置顶、自定义封面
+
+groups:
+  # 第一个相册组
+  - name: "头像"
+    description: "分享一些头像"
+    featured: true  # 精选相册，置顶显示
+    cover: "https://img.cdn1.vip/i/695a02f2d52c2_1767506674.webp"  # 相册封面
+    photos:
+      - url: "https://img.cdn1.vip/i/695a02f2d52c2_1767506674.webp"
+        title: "头像"
+        # description: "旅行中遇到的美景"
+        date: "2026-01-03"
+
+      - url: "https://img.cdn1.vip/i/695a02d3387e9_1767506643.webp"
+        title: "头像"
+        # description: "旅行中遇到的美景"
+        date: "2026-01-03"
+      
+      - url: "https://img.cdn1.vip/i/695a02d335cce_1767506643.webp"
+        title: "头像"
+        #description: "夜幕降临的城市"
+        date: "2026-01-03"
+      
+      - url: "https://img.cdn1.vip/i/695a02d2987c6_1767506642.webp"
+        title: "头像"
+        #description: "大自然的鬼斧神工"
+        date: "2026-01-03"
+
+      - url: "https://img.cdn1.vip/i/695a02cc50f42_1767506636.webp"
+        title: "头像"
+        #description: "自然的鬼斧神工"
+        date: "2026-1-3"
+        
+      - url: "https://img.cdn1.vip/i/695a02cb61c90_1767506635.webp"
+        title: "头像"
+        #description: "自然的鬼斧神工"
+        date: "2026-1-3"
+        
+      - url: "https://img.cdn1.vip/i/695a02c64d751_1767506630.webp"
+        title: "头像"
+        #description: "自然的鬼斧神工"
+        date: "2026-1-3"
+        
+      - url: "https://img.cdn1.vip/i/695a02b89d357_1767506616.webp"
+        title: "头像"
+        #description: "自然的鬼斧神工"
+        date: "2026-1-3"
+        
+      - url: "https://img.cdn1.vip/i/695a02b70fc26_1767506615.webp"
+        title: "头像"
+        #description: "自然的鬼斧神工"
+        date: "2026-1-3"
+        
+   
+
+  # 第二个相册组
+  - name: "壁纸"
+    description: "分享一些壁纸"
+    featured: true  # 精选相册
+    cover: "https://img.cdn1.vip/i/695a08f490615_1767508212.webp"
+    photos:
+      - url: "https://img.cdn1.vip/i/695a08f490615_1767508212.webp"
+        title: "壁纸"
+        #description: "值得永远铭记的瞬间"
+        date: "2025-10-01"
+      
+      - url: "https://img.cdn1.vip/i/695a09175c03a_1767508247.webp"
+        title: "壁纸"
+        #description: "温馨的回忆"
+        date: "2025-10-02"
+
+      - url: "https://img.cdn1.vip/i/695a091b57580_1767508251.webp"
+        title: "壁纸"
+        #description: "温馨的回忆"
+        date: "2025-10-02"  
+
+      - url: "https://img.cdn1.vip/i/695a08ff3594b_1767508223.webp"
+        title: "壁纸"
+        #description: "温馨的回忆"
+        date: "2025-10-02"
+        
+      - url: "https://img.cdn1.vip/i/695a08fe7aefa_1767508222.webp"
+        title: "壁纸"
+        #description: "温馨的回忆"
+        date: "2025-10-02"
+        
+      - url: "https://img.cdn1.vip/i/695a091c749f6_1767508252.webp"
+        title: "壁纸"
+        #description: "温馨的回忆"
+        date: "2025-10-02"
+        
+      - url: "https://img.cdn1.vip/i/695a05d41090b_1767507412.webp"
+        title: "壁纸"
+        #description: "温馨的回忆"
+        date: "2025-10-02"
+        
+  # 第三个相册组
+  #- name: "博客"
+  #  description: "各种主页大图"
+  #  featured: false
+  #  cover: "https://mpimg.cn/view.php/5fc307fd83a20252b4c87a16c84b5878.jpg"
+  #  photos:
+  #    - url: "https://mpimg.cn/view.php/b3adfd7377e5d1cbc6f040f194937a0c.jpg"
+  #      title: "博客主页"
+  #      description: "我的个人博客主页"
+  #      date: "2025-10-26"
+ 
