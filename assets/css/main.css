@@ -62,7 +62,7 @@
 @import "_author.css";
 
 /* 最新评论侧栏组件样式 */
-@import "_recent-comments.css";
+/*@import "_recent-comments.css";*/
 
 /* 标签云、分类侧栏组件样式 */
 @import "_tags.css";
@@ -87,7 +87,7 @@
 @import "_archive.css";
 
 /* 逆行人生时间倒计时组件样式 */
-@import "_life-time.css";
+/*@import "_life-time.css";*/
 
 /* 侧栏数据统计组件样式 */
 @import "_data-stats.css";
@@ -99,16 +99,16 @@
 @import "_random-image.css";
 
 /* 侧栏访客信息组件样式 */
-@import "_visitor-info.css";
+/*@import "_visitor-info.css";*/
 
 /* 侧栏音乐组件样式 */
-@import "_music-aside.css";
+/*@import "_music-aside.css";*/
 
 /* 悬浮音乐播放器样式 */
-@import "_music-player-float.css";
+/*@import "_music-player-float.css";*/
 
 /* 评论区统一样式（所有页面） */
-@import "_comment.css";
+/*@import "_comment.css";*/
 
 /* 按钮短代码样式 */
 @import "_button-shortcode.css";
@@ -137,11 +137,11 @@
 
 
 /* 网友圈页面样式 */
-@import '_friends-circle.css';
+/*@import '_friends-circle.css';*/
 
 /* 友链页面样式 */
-@import '_links.css';
-@import '_gear.css';
+/*@import '_links.css';*/
+/*@import '_gear.css';*/
 
 /* 小说书单页面样式 */
 @import '_booklist.css';
@@ -165,7 +165,7 @@
 @import '_timeline.css';
 
 /* 音乐播放器样式 */
-@import '_music.css';
+/*@import '_music.css';*/
 
 /* 彩色文字样式 */
 @import '_color-text.css';
