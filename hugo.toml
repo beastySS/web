@@ -406,7 +406,7 @@ hasCJKLanguage = true                      # 启用中日韩语言支持，优�
     showRelatedPosts = false                # 相关文章
     showSocialMedia = false                  # 社交媒体
     showAdvertisement = false               # 广告位
-    showAnnouncement = false                # 公告栏
+    showAnnouncement = true                # 公告栏
     showLifeTime = false                    # 逆行人生时间倒计时组件
     showDataStats = false                   # 数据统计组件
     showHitokoto = true                     # 一言组件
@@ -795,12 +795,12 @@ hasCJKLanguage = true                      # 启用中日韩语言支持，优�
   [params.announcement]
     enable = true                          # 是否启用公告栏
     important = false                      # 是否为重要公告（影响显示样式）
-    title = "Demius 主题公告"                 # 公告标题
-    content = "Demius 主题演示站正在运行中，文档中部署相关内容仅为示例，请根据自身需求进行配置。<strong style=\"color: #2ecc71;\">QQ群：1065475281</strong>"  # 公告内容
-    date = "2025-10-26"                    # 公告日期
+    title = "温馨提示"                 # 公告标题
+    content = "点击文章的标题才能打开文章"  # 公告内容
+    date = "2026-01-03"                    # 公告日期
   [params.announcement.link]
-      text = "了解更多"                    # 链接文本
-      url = "/about"                       # 链接地址
+      text = ""                    # 链接文本
+      url = ""                       # 链接地址
 
   # ===== 联系信息配置 =====
   [params.contact]
