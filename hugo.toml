@@ -1131,7 +1131,7 @@ hasCJKLanguage = true                      # 启用中日韩语言支持，优�
     showTime = true                         # 是否显示时间
     cacheDuration = 1800000                 # 缓存时间(毫秒，30分钟=1800000)
     clickable = true                        # 是否可点击跳转到说说页面（true=可点击，false=不可点击）
-    shuoshuoPageUrl = "/shuoshuo/"         # 说说页面URL（用于跳转）
+    shuoshuoPageUrl = "/shuoshuo/  "         # 说说页面URL（用于跳转）
 
 # ===== 文章链接卡片和跳转中转配置 =====
 [params.linkCard]
@@ -1143,6 +1143,7 @@ hasCJKLanguage = true                      # 启用中日韩语言支持，优�
   showArticleDate = true                     # 是否显示文章日期（仅内部链接有效）
   showArticleSummary = true                  # 是否显示文章摘要（仅内部链接有效）
   redirectPage = true                       # 是否启用跳转中转页（外部链接通过中转页跳转）
+
   
   # 跳转中转页配置
   [params.linkCard.redirect]
@@ -1156,6 +1157,7 @@ hasCJKLanguage = true                      # 启用中日韩语言支持，优�
   replaceWhitelist = [
     # "https://example\\.com/.*",           # 正则表达式示例
     # "https://trusted-site\\.com"          # 字符串匹配示例
+	"https://maomaoyun.net/#/register?code=7KVS9321"
   ]
   
   # 页面白名单（仅在这些页面处理链接）

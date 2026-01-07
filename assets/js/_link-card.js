@@ -332,6 +332,18 @@
           continue;
         }
         
+		if (
+		  link.classList.contains('no-link-card') ||
+		  link.classList.contains('shortcode-button')
+		) {
+		  continue;
+		}
+
+		//const href = link.getAttribute('href');
+		if (!href || href.trim() === '') {
+		  continue;
+		}
+		
         // 跳过特殊链接
         if (link.hasAttribute('data-fancybox')) {
           continue;
@@ -393,7 +405,7 @@
         }
         
         // 处理链接卡片
-        if (config.enable && config.cardMode !== 'none') {
+        if (config.enable && config.cardMode !== 'none' && !link.classList.contains('no-link-card') && !link.classList.contains('shortcode-button')) {
           // 判断是否显示卡片时，使用原始href（因为更新后的href会被识别为内部链接）
           const cardDisplayCheckHref = originalHref;
           const cardDisplayIsInternal = isInternalLink(cardDisplayCheckHref);

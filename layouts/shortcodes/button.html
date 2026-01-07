@@ -68,7 +68,7 @@
 
 {{- /* 渲染按钮 */ -}}
 {{- if $href -}}
-  <a class="{{ $buttonClasses }}" {{ $attrs | safeHTMLAttr }}>
+  <a class="{{ $buttonClasses }} no-link-card" {{ $attrs | safeHTMLAttr }}>
     {{- if $icon -}}
       <i class="{{ $icon }}"></i>
     {{- end -}}
