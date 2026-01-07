@@ -4,7 +4,7 @@ draft: false
 title: '阅读Pro'
 slug: "readSoftware"
 description: "分享一个手机端的阅读软件"
-cover: "/img/topic_list/001.jpg"  # 封面图片
+cover: "/img/topic_list/001.webp"  # 封面图片
 categories: ["分享"]
 tags: ["手机软件", "免费"]
 ---
