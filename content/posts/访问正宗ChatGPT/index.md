@@ -7,6 +7,7 @@ description: "使用ChatGPT的教程"
 cover: "/img/topic_list/003.webp"  # 封面图片
 categories: ["分享"]
 tags: ["ChatGPT", "AI"]
+pinned: true # 置顶
 ---
 
 ## 介绍ChatGPT
@@ -27,7 +28,7 @@ tags: ["ChatGPT", "AI"]
 
 
 
-{{< button href="/posts/clash使用教程.html/"  icon="fas fa-bolt" >}}Clash教程{{< /button >}}
+{{< button href="/posts/clash使用教程.html/" target="_blank" icon="fas fa-bolt" >}}Clash教程{{< /button >}}
 
 
 
